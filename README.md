@@ -13,7 +13,9 @@ A more advanced version of Windows Snipping Tool (in my eyes)
 
 - [] Finish auto-delete Imgur links
 - [] Add proper first-time setup
-- [] Add editor to draw, add shapes & blur snips
+- [X] Add editor
+- - [X] Blur
+- - [] Pen
 - [] Code tidy-up
 - [] Hotkey Support
 
