@@ -15,6 +15,7 @@ A more advanced version of Windows Snipping Tool (in my eyes)
 - [] Add proper first-time setup
 - [] Add editor to draw, add shapes & blur snips
 - [] Code tidy-up
+- [] Hotkey Support
 
 ## Usage
 
